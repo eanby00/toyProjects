@@ -1,0 +1,15 @@
+.boxshadow {
+    margin: 1rem;
+}
+
+.one {
+    box-shadow: 0px 0px 1px blue;
+}
+
+.two {
+    box-shadow: 0 2px 8px red;
+}
+
+.three {
+    box-shadow: 0 2px 8px purple;
+}

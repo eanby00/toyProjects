@@ -1,0 +1,33 @@
+.display div {
+    margin: 5px;
+    border: 1px solid black;
+}
+
+.none {
+    background-color: blue;
+    display: none;
+}
+
+.block {
+    background-color: aqua;
+    display: block;
+}
+
+.inline {
+    background-color: blueviolet;
+    display: inline;
+}
+
+.inline-block {
+    background-color: red;
+    display: inline-block;
+}
+
+.flex_container {
+    background-color: grey;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    /* gap: 100px; */
+    flex: 1;
+}
